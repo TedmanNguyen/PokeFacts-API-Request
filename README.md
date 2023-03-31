@@ -38,9 +38,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **ScreenToGif**
 
-<!-- Recommended tools:
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-
 Notes
 
 Extremely challenging and overwhelming. Took a lot more time than anticipated. 
